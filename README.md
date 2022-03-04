@@ -1,4 +1,9 @@
-### Hello! I'm Nei Rin Zara Lwin. 👋
+<div align="center"><img width="auto" height="220px" src="https://ouch-cdn2.icons8.com/BspfrbRwYEUcdvjtFw6e-7RCiGlMGP_24gkRM5IGJFQ/rs:fit:952:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvMTI3/LzQxODFmMTUwLTBh/YjQtNDEwMi04YTA2/LWQwYmViNjVkYmFh/OC5wbmc.png" /></div>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Nei Rin Zara Lwin</h1>
+<h3 align="center">I'm an AI, Machine Learning, Deep Learning Enthusiast</h3>
+
+##  <img width = "38px" height= "auto" src="https://ouch-cdn2.icons8.com/9Q47nndQaaO4qd3p2vwCT67VDbC-whvywb0G0VhNL-8/rs:fit:1088:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvODQ0/LzBhZWNkMWZlLTkw/YzUtNGY4OS05MjZl/LTc5Yjk0MGVkMzZm/Mi5wbmc.png"> - Info
 
 - 🔭 I’m currently an university student
 - 🌱 I’m currently learning Machine Learning & Deep Learning
@@ -6,3 +11,10 @@
 - 📫 How to reach me through [Nei Rin Zara Lwin | Facebook](https://www.facebook.com/lwinneirinzara) and [Nei Rin Zara Lwin (@nei_rin_zara_lwin) • Instagram](https://www.instagram.com/nei_rin_zara_lwin/)
 - 😄 Pronouns: Nei Rin 
 - ⚡ Fun fact: Busy bee, Playing pc games
+
+
+##  <img width = "30px" height= "auto" src="https://ouch-cdn2.icons8.com/y5TGRN6bfnL3QWb_el8p1A78IgFpXdzavXsT-wPv5VY/rs:fit:845:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvNDgx/LzhhNGIyZGM1LThi/NDgtNDViZS04MjE3/LWNhYmY3MzYzMWMy/Ny5wbmc.png"> - Languages & Tools
+
+<p align="left"> 
+    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>
+</p>
