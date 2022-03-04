@@ -1,6 +1,6 @@
 ### Hello! I'm Nei Rin Zara Lwin. 👋
 
-- 🔭 I’m currently a university student
+- 🔭 I’m currently an university student
 - 🌱 I’m currently learning Machine Learning & Deep Learning
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
