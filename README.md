@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Nei Rin Zara Lwin</h1>
 <h3 align="center">I'm an AI, Machine Learning, Deep Learning Enthusiast</h3>
 
-##  <img width = "38px" height= "auto" src="https://ouch-cdn2.icons8.com/9Q47nndQaaO4qd3p2vwCT67VDbC-whvywb0G0VhNL-8/rs:fit:1088:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvODQ0/LzBhZWNkMWZlLTkw/YzUtNGY4OS05MjZl/LTc5Yjk0MGVkMzZm/Mi5wbmc.png"> - Info
+##  <img width = "30px" height= "auto" src="https://ouch-cdn2.icons8.com/EH_Ty6lYx9aVfN1n1cg0qQ2QQdXjiKTyJ2n7icCzKRc/rs:fit:1048:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvNTkx/L2Q2M2M0N2ZmLWQw/ODAtNGY2Mi04ZDA1/LWU3NTg1ZGY1NGMw/NC5wbmc.png"> - Info
 
 - 🔭 I’m currently an university student
 - 🌱 I’m currently learning Machine Learning & Deep Learning
