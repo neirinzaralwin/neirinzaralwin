@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Nei Rin Zara Lwin</h1>
 <h3 align="center">I'm an AI, Machine Learning, Deep Learning Enthusiast</h3>
 
-##  <img width = "30px" height= "auto" src="https://ouch-cdn2.icons8.com/EH_Ty6lYx9aVfN1n1cg0qQ2QQdXjiKTyJ2n7icCzKRc/rs:fit:1048:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvNTkx/L2Q2M2M0N2ZmLWQw/ODAtNGY2Mi04ZDA1/LWU3NTg1ZGY1NGMw/NC5wbmc.png"> - Info
+##  <img width = "30px" height= "auto" src="https://ouch-cdn2.icons8.com/EH_Ty6lYx9aVfN1n1cg0qQ2QQdXjiKTyJ2n7icCzKRc/rs:fit:1048:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvNTkx/L2Q2M2M0N2ZmLWQw/ODAtNGY2Mi04ZDA1/LWU3NTg1ZGY1NGMw/NC5wbmc.png"> - INFO
 
 - 🔭 I’m currently an university student
 - 🌱 I’m currently learning Machine Learning & Deep Learning
@@ -13,8 +13,12 @@
 - ⚡ Fun fact: Busy bee, Playing pc games
 
 
-##  <img width = "30px" height= "auto" src="https://ouch-cdn2.icons8.com/y5TGRN6bfnL3QWb_el8p1A78IgFpXdzavXsT-wPv5VY/rs:fit:845:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvNDgx/LzhhNGIyZGM1LThi/NDgtNDViZS04MjE3/LWNhYmY3MzYzMWMy/Ny5wbmc.png"> - Languages & Tools
+## <img width = "30px" height= "auto" src="https://ouch-cdn2.icons8.com/y5TGRN6bfnL3QWb_el8p1A78IgFpXdzavXsT-wPv5VY/rs:fit:845:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvNDgx/LzhhNGIyZGM1LThi/NDgtNDViZS04MjE3/LWNhYmY3MzYzMWMy/Ny5wbmc.png"> - TOOLS
 
 <p align="left"> 
     <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>
+    <a href="https://www.anaconda.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/anaconda--v2.png"/> </a>
+    <a href="https://jupyter.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/> </a>
+    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/> </a>
+    <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/> </a>
 </p>
