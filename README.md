@@ -9,7 +9,9 @@
 - 🔭 I’m currently an university student
 - 🌱 I’m currently learning Machine Learning & Deep Learning
 - 💬 Ask me about some theories of Machine Learning
-- 📫 Reach me through [Nei Rin Zara Lwin | Facebook](https://www.facebook.com/lwinneirinzara) and [Nei Rin Zara Lwin (@nei_rin_zara_lwin) • Instagram](https://www.instagram.com/nei_rin_zara_lwin/)
+- 📫 Reach me through <br>
+<a href='https://www.facebook.com/lwinneirinzara'><img src = 'https://img.shields.io/badge/Nei Rin Zara Lwin-white?style=for-the-badge&logo=facebook&logoColor=1877F2'></a>
+<a href='https://www.instagram.com/nei_rin_zara_lwin/'><img src = 'https://img.shields.io/badge/@nei_rin_zara_lwin-white?style=for-the-badge&logo=instagram&logoColor=E4405F'></a>
 - 😄 Pronouns: Nei Rin 
 - ⚡ Fun fact: Busy bee, Playing pc games
 
@@ -26,4 +28,10 @@
     <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/tensorflow-white?style=for-the-badge&logo=tensorflow&logoColor=default" alt="dependency - tensorflow" alt="Package - tensorflow"></a>
     <a href="https://keras.io/"><img src="https://img.shields.io/badge/keras-white?style=for-the-badge&logo=keras&logoColor=red" alt="dependency - keras" alt="Package - keras"></a>
     <a href="https://scikit-learn.org/stable/"><img src="https://img.shields.io/badge/scikit learn-white?style=for-the-badge&logo=scikit learn&logoColor=red" alt="dependency - scikit learn" alt="Package - scikit learn"></a>
+<a href="https://www.microsoft.com/"><img src="https://img.shields.io/badge/Window 11-white?style=for-the-badge&logo=windows&logoColor=0078D6"></a> 
+<a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-white?style=for-the-badge&logo=dart&logoColor=0175C2"></a>
+<a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-white?style=for-the-badge&logo=flutter&logoColor=02569B"></a> 
+<a href="https://flutter.dev/"><img src="https://img.shields.io/badge/NVIDIA-GTX1660Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></a> 
 </p>
+
+![Nei Rin Zara Lwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=neirinzaralwin&show_icons=true&theme=radical&text_color=black&bg_color=white&title_color=5200bd&icon_color=blue)
