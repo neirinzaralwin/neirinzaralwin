@@ -3,7 +3,8 @@
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm Nei Rin Zara Lwin</h2>
 <p align="center">𝐈'𝐦 𝐚𝐧 𝐀𝐈, 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠, 𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭</p>
 
-![](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz) - 𝙋𝙤𝙧𝙩𝙛𝙤𝙡𝙞𝙤
+
+<img src="img/ripplegif.gif" width="25"/> - 𝙋𝙤𝙧𝙩𝙛𝙤𝙡𝙞𝙤
 
 - 🔭 I’m currently an university student
 - 🌱 I’m currently learning Machine Learning & Deep Learning
