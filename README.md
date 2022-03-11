@@ -1,6 +1,6 @@
 <div align="center"><img width="auto" height="220px" src="https://ouch-cdn2.icons8.com/BspfrbRwYEUcdvjtFw6e-7RCiGlMGP_24gkRM5IGJFQ/rs:fit:952:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvMTI3/LzQxODFmMTUwLTBh/YjQtNDEwMi04YTA2/LWQwYmViNjVkYmFh/OC5wbmc.png" /></div>
 
-<h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Nei Rin Zara Lwin</h2>
+<h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm Nei Rin Zara Lwin</h2>
 <p align="center">𝐈'𝐦 𝐚𝐧 𝐀𝐈, 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠, 𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭</p>
 
 <img width = "20px" height= "auto" src="https://ouch-cdn2.icons8.com/EH_Ty6lYx9aVfN1n1cg0qQ2QQdXjiKTyJ2n7icCzKRc/rs:fit:1048:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvNTkx/L2Q2M2M0N2ZmLWQw/ODAtNGY2Mi04ZDA1/LWU3NTg1ZGY1NGMw/NC5wbmc.png"> - 𝙋𝙤𝙧𝙩𝙛𝙤𝙡𝙞𝙤
@@ -8,7 +8,7 @@
 - 🔭 I’m currently an university student
 - 🌱 I’m currently learning Machine Learning & Deep Learning
 - 💬 Ask me about some theories of Machine Learning
-- 📫 How to reach me through [Nei Rin Zara Lwin | Facebook](https://www.facebook.com/lwinneirinzara) and [Nei Rin Zara Lwin (@nei_rin_zara_lwin) • Instagram](https://www.instagram.com/nei_rin_zara_lwin/)
+- 📫 Reach me through [Nei Rin Zara Lwin | Facebook](https://www.facebook.com/lwinneirinzara) and [Nei Rin Zara Lwin (@nei_rin_zara_lwin) • Instagram](https://www.instagram.com/nei_rin_zara_lwin/)
 - 😄 Pronouns: Nei Rin 
 - ⚡ Fun fact: Busy bee, Playing pc games
 
