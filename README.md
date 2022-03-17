@@ -4,7 +4,7 @@
 <p align="center">𝐈'𝐦 𝐚𝐧 𝐀𝐈, 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠, 𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭</p>
 
 
-<img src="img/book-alt-free-icon-font.png" width="20"/> - 𝙋𝙤𝙧𝙩𝙛𝙤𝙡𝙞𝙤
+𝙋𝙤𝙧𝙩𝙛𝙤𝙡𝙞𝙤
 
 - 🔭 I’m currently an university student
 - 🌱 I’m currently learning Machine Learning & Deep Learning
@@ -16,7 +16,7 @@
 - ⚡ Fun fact: Busy bee, Playing pc games
 
 
-<img width = "20px" src="img/apps-free-icon-font.png"> - 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚 𝙖𝙣𝙙 𝙏𝙤𝙤𝙡𝙨
+𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚 𝙖𝙣𝙙 𝙏𝙤𝙤𝙡𝙨
 
 <p align="left"> 
     <a href = 'https://pytorch.org'><img src = 'https://img.shields.io/badge/-Pytorch-white?style=for-the-badge&logo=pytorch'></img></a>
