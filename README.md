@@ -1,6 +1,6 @@
 <div align="center"><img width="auto" height="220px" src="https://ouch-cdn2.icons8.com/BspfrbRwYEUcdvjtFw6e-7RCiGlMGP_24gkRM5IGJFQ/rs:fit:952:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvMTI3/LzQxODFmMTUwLTBh/YjQtNDEwMi04YTA2/LWQwYmViNjVkYmFh/OC5wbmc.png" /></div>
 
-<h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm Nei Rin Zara Lwin</h2>
+<h2 align="center">Hi I'm Nei Rin Zara Lwin</h2>
 <p align="center">𝐈'𝐦 𝐚𝐧 𝐀𝐈, 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠, 𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭</p>
 
 
