@@ -7,7 +7,7 @@
 𝙋𝙤𝙧𝙩𝙛𝙤𝙡𝙞𝙤
 
 - 🔭 I’m currently an university student
-- 🌱 I’m currently learning Machine Learning & Deep Learning
+- 🌱 I've currently finished [Car Number Plate Detection](https://github.com/neirinzaralwin/License-Plate-Detection)
 - 💬 Ask me about some theories of Machine Learning
 - 📫 Reach me through <br>
 <a href='https://www.facebook.com/lwinneirinzara'><img src = 'https://img.shields.io/badge/Nei Rin Zara Lwin-white?style=for-the-badge&logo=facebook&logoColor=1877F2'></a>
