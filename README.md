@@ -12,7 +12,6 @@
 - 📫 Reach me through <br>
 <a href='https://www.facebook.com/lwinneirinzara'><img src = 'https://img.shields.io/badge/Nei Rin Zara Lwin-white?style=for-the-badge&logo=facebook&logoColor=1877F2'></a>
 <a href='https://www.instagram.com/nei_rin_zara_lwin/'><img src = 'https://img.shields.io/badge/@nei_rin_zara_lwin-white?style=for-the-badge&logo=instagram&logoColor=E4405F'></a>
-- 😄 Pronouns: Nei Rin 
 - ⚡ Fun fact: Busy bee, Playing pc games
 
 
