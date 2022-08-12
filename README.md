@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently an university student
 - 🌱 I've currently finished [Car Number Plate Detection](https://github.com/neirinzaralwin/License-Plate-Detection) and [Deep Neural Style Transfer](https://github.com/neirinzaralwin/Deep-Learning/blob/main/Neural%20Networks/Neural%20Style%20Transfer/Deep%20Neural%20Style%20Transfer.ipynb)
-- Flutter State Management - [Ecommerce with provider](https://github.com/neirinzaralwin/flutter-ecommerce-provider)
+- Some Flutter private projects
 - 💬 Ask me about some theories of Machine Learning
 - 📫 Reach me through <br>
 <a href='https://www.facebook.com/lwinneirinzara'><img src = 'https://img.shields.io/badge/Nei Rin Zara Lwin-white?style=for-the-badge&logo=facebook&logoColor=1877F2'></a>
