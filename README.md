@@ -6,14 +6,14 @@
 
 𝙋𝙤𝙧𝙩𝙛𝙤𝙡𝙞𝙤
 
-- 🔭 I’m currently an university student
+- 🔭 I’m currently a mid-senior level flutter developer
 - 🌱 I've currently finished [Car Number Plate Detection](https://github.com/neirinzaralwin/License-Plate-Detection) and [Deep Neural Style Transfer](https://github.com/neirinzaralwin/Deep-Learning/blob/main/Neural%20Networks/Neural%20Style%20Transfer/Deep%20Neural%20Style%20Transfer.ipynb)
-- Some Flutter private projects
-- 💬 Ask me about some theories of Machine Learning
+- Ecommerce, POS, LMS, Movie projects with flutter
+- 💬 Ask me about some theories of Machine Learning & flutter knowledge with state management (GetX)
 - 📫 Reach me through <br>
 <a href='https://www.facebook.com/lwinneirinzara'><img src = 'https://img.shields.io/badge/Nei Rin Zara Lwin-white?style=for-the-badge&logo=facebook&logoColor=1877F2'></a>
 <a href='https://www.instagram.com/nei_rin_zara_lwin/'><img src = 'https://img.shields.io/badge/@nei_rin_zara_lwin-white?style=for-the-badge&logo=instagram&logoColor=E4405F'></a>
-- ⚡ Fun fact: Busy bee, Playing pc games
+- ⚡ Fun fact: Busy bee
 
 
 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚 𝙖𝙣𝙙 𝙏𝙤𝙤𝙡𝙨
