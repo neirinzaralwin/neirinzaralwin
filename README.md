@@ -7,7 +7,7 @@
 𝙋𝙤𝙧𝙩𝙛𝙤𝙡𝙞𝙤
 
 - 🔭 I’m currently a mid-senior level flutter developer
-- 🌱 I've currently finished [Car Number Plate Detection](https://github.com/neirinzaralwin/License-Plate-Detection) and [Deep Neural Style Transfer](https://github.com/neirinzaralwin/Deep-Learning/blob/main/Neural%20Networks/Neural%20Style%20Transfer/Deep%20Neural%20Style%20Transfer.ipynb)
+- 🌱 I've currently finished [Food.com.mm]([https://github.com/neirinzaralwin/License-Plate-Detection](https://apps.apple.com/us/app/food-com-mm/id6446515746))
 - Ecommerce, POS, LMS, Movie projects with flutter
 - 💬 Ask me about some theories of Machine Learning & flutter knowledge with state management (GetX)
 - 📫 Reach me through <br>
