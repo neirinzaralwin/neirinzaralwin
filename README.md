@@ -1,19 +1,19 @@
 <div align="center"><img width="auto" height="220px" src="https://ouch-cdn2.icons8.com/BspfrbRwYEUcdvjtFw6e-7RCiGlMGP_24gkRM5IGJFQ/rs:fit:952:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvMTI3/LzQxODFmMTUwLTBh/YjQtNDEwMi04YTA2/LWQwYmViNjVkYmFh/OC5wbmc.png" /></div>
 
-<h2 align="center">Hi I'm Nei Rin Zara Lwin</h2>
-<p align="center">Professional Mobile Developer</p>
+<h2 align="center">Hi I'm Nei Rin</h2>
+<p align="center">A software engineer from Myanmar</p>
 
 
 𝙋𝙤𝙧𝙩𝙛𝙤𝙡𝙞𝙤
 
-- 🔭 Cross-platform mobile developer using Flutter & AI enthusiast
+- 🔭 Cross-platform mobile developer & AI enthusiast
 - 🌱 Developed well-known applications such as [Food.com.mm](https://apps.apple.com/us/app/food-com-mm/id6446515746),[Go Go Travel](https://apps.apple.com/us/app/go-go-travel/id6473775786), [Shwe Phone Shein](https://apps.apple.com/us/app/shwe-phone-shein/id6463791308), [Kwee La Min](https://apps.apple.com/us/app/kwee-lamin/id6451135120), [Wisdom Tree Library](https://apps.apple.com/us/app/wisdom-tree-library/id6464262162), [Gold Accessories Myanmar](https://apps.apple.com/us/app/gold-accessories-myanmar/id6464115053), [Hang Ten Myanmar](https://apps.apple.com/us/app/hang-ten-myanmar/id6445860267), [BPH Library](https://apps.apple.com/us/app/bph-library/id6472628446), [Fruit.com.mm](https://apps.apple.com/us/app/fruit-com-mm/id6464595837) and other private finance projects.
-- E-commerce, POS, LMS, Delivery, Chat, Movie projects using flutter
-- 💬 Ask me about some theories of Machine Learning & flutter knowledge with state managements, architectures & design patterns.
+- E-commerce, POS, LMS, Delivery, Chat, Streaming apps
+- Design patterns, architectures, and principles make me a better developer.
 - 📫 Reach me through <br>
 <a href='https://www.facebook.com/lwinneirinzara'><img src = 'https://img.shields.io/badge/Nei Rin Zara Lwin-white?style=for-the-badge&logo=facebook&logoColor=1877F2'></a>
-<a href='https://www.instagram.com/nei_rin_zara_lwin/'><img src = 'https://img.shields.io/badge/@nei_rin_zara_lwin-white?style=for-the-badge&logo=instagram&logoColor=E4405F'></a>
-- ⚡ Fun fact: Busy bee
+<a href='https://www.instagram.com/neirin2001/'><img src = 'https://img.shields.io/badge/@nei_rin_zara_lwin-white?style=for-the-badge&logo=instagram&logoColor=E4405F'></a>
+- ⚡ Fun fact: Busy bee, coffee addict
 
 
 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚 𝙖𝙣𝙙 𝙏𝙤𝙤𝙡𝙨
