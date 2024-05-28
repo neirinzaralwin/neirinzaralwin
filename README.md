@@ -31,7 +31,7 @@
 <a href="https://www.microsoft.com/"><img src="https://img.shields.io/badge/Window 11-white?style=for-the-badge&logo=windows&logoColor=0078D6"></a> 
 <a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-white?style=for-the-badge&logo=dart&logoColor=0175C2"></a>
 <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-white?style=for-the-badge&logo=flutter&logoColor=02569B"></a> 
-<a href="https://flutter.dev/"><img src="https://img.shields.io/badge/NVIDIA-GTX1660Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></a> 
+<a href="https://flutter.dev/"><img src="https://img.shields.io/badge/NVIDIA-GTX1660Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 </p>
 
 ![Nei Rin Zara Lwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=neirinzaralwin&show_icons=true&theme=radical&text_color=black&bg_color=white&title_color=5200bd&icon_color=blue)
