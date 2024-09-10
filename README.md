@@ -6,7 +6,7 @@
 
 𝙋𝙤𝙧𝙩𝙛𝙤𝙡𝙞𝙤
 
-- 🔭 Cross-platform mobile developer & AI enthusiast
+- 🔭 Cross-platform mobile developer, web devloper & AI enthusiast
 - Accomplishments in Deep Learning</br> <a href=""><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"></a>
 - 🌱 Developed well-known applications such as [Food.com.mm](https://apps.apple.com/us/app/food-com-mm/id6446515746),[Go Go Travel](https://apps.apple.com/us/app/go-go-travel/id6473775786), [Shwe Phone Shein](https://apps.apple.com/us/app/shwe-phone-shein/id6463791308), [Kwee La Min](https://apps.apple.com/us/app/kwee-lamin/id6451135120), [Wisdom Tree Library](https://apps.apple.com/us/app/wisdom-tree-library/id6464262162), [Gold Accessories Myanmar](https://apps.apple.com/us/app/gold-accessories-myanmar/id6464115053), [Hang Ten Myanmar](https://apps.apple.com/us/app/hang-ten-myanmar/id6445860267), [BPH Library](https://apps.apple.com/us/app/bph-library/id6472628446), [Fruit.com.mm](https://apps.apple.com/us/app/fruit-com-mm/id6464595837) and other private finance projects.
 - E-commerce, POS, LMS, Delivery, Chat, Streaming apps
