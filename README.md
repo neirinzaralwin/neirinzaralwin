@@ -2,9 +2,10 @@
 
 <h2 align="center">Hi I'm Nei Rin</h2>
 <p align="center">A software engineer from Myanmar</p>
+<p align="center">Check my portfolio -> <a href="">https://www.neirinzaralwin.com</a></p>
 
 
-𝙋𝙤𝙧𝙩𝙛𝙤𝙡𝙞𝙤
+Summary
 
 - 🔭 Cross-platform mobile developer, web devloper & AI enthusiast
 - Accomplishments in Deep Learning</br> <a href=""><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"></a>
