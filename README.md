@@ -2,7 +2,7 @@
 
 <h2 align="center">Hi I'm Nei Rin</h2>
 <p align="center">A software engineer from Myanmar</p>
-<p align="center">Check my portfolio -> <a href="">https://www.neirinzaralwin.com</a></p>
+<p align="center">Check my portfolio -> <a href="https://www.neirinzaralwin.com/">https://www.neirinzaralwin.com</a></p>
 
 
 Summary
