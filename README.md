@@ -1,66 +1,103 @@
-<div align="center"><img width="auto" height="220px" src="https://ouch-cdn2.icons8.com/BspfrbRwYEUcdvjtFw6e-7RCiGlMGP_24gkRM5IGJFQ/rs:fit:952:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvMTI3/LzQxODFmMTUwLTBh/YjQtNDEwMi04YTA2/LWQwYmViNjVkYmFh/OC5wbmc.png" /></div>
+<div align="center">
 
-<h2 align="center">Hi I'm Nei Rin</h2>
-<p align="center">A software engineer from Myanmar</p>
-<p align="center">Check my portfolio -> <a href="https://www.neirinzaralwin.com/">https://www.neirinzaralwin.com</a></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=AI-native%20Software%20Engineer%20%7C%20Human%20In%20The%20Loop&fontAlign=50&fontAlignY=38&fontSize=28&fontColor=ffffff&section=header" width="100%"/>
 
+### AI-native Software Engineer building mobile & web products with modern AI workflows
+5+ Years of Experience • Cross-platform apps across fintech, e-commerce, and hospitality • Bangkok, Thailand
 
-Summary
+<a href="https://www.neirinzaralwin.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/nei-rin-zara-lwin/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5"></a>
+<a href="mailto:zaralwinneirin@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D14836"></a>
 
-- 🔭 Cross-platform mobile developer, web devloper & AI enthusiast
-- Accomplishments in Deep Learning</br> <a href=""><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"></a>
-- 🌱 Developed well-known applications such as [Food.com.mm](https://apps.apple.com/us/app/food-com-mm/id6446515746),[Go Go Travel](https://apps.apple.com/us/app/go-go-travel/id6473775786), [Shwe Phone Shein](https://apps.apple.com/us/app/shwe-phone-shein/id6463791308), [Kwee La Min](https://apps.apple.com/us/app/kwee-lamin/id6451135120), [Wisdom Tree Library](https://apps.apple.com/us/app/wisdom-tree-library/id6464262162), [Gold Accessories Myanmar](https://apps.apple.com/us/app/gold-accessories-myanmar/id6464115053), [Hang Ten Myanmar](https://apps.apple.com/us/app/hang-ten-myanmar/id6445860267), [BPH Library](https://apps.apple.com/us/app/bph-library/id6472628446), [Fruit.com.mm](https://apps.apple.com/us/app/fruit-com-mm/id6464595837) and other private finance projects.
-- E-commerce, POS, LMS, Delivery, Chat, Streaming apps
-- Design patterns, architectures, and principles make me a better developer.
-- 📫 Reach me through <br>
-<a href='https://www.facebook.com/lwinneirinzara'><img src = 'https://img.shields.io/badge/Nei Rin Zara Lwin-white?style=for-the-badge&logo=facebook&logoColor=1877F2'></a>
-<a href='https://www.instagram.com/neirin2001/'><img src = 'https://img.shields.io/badge/@nei_rin_zara_lwin-white?style=for-the-badge&logo=instagram&logoColor=E4405F'></a>
-<a href='https://www.linkedin.com/in/nei-rin-zara-lwin/'> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit'> </a>
-- ⚡ Fun fact: Busy bee, coffee addict
+</div>
 
+## About Me
 
-<h3>Tech stacks</h3>
+- 5+ years of professional experience shipping cross-platform mobile & web products — fintech, e-commerce, hospitality, and streaming
+- Senior Mobile & Full-Stack Developer, building blockchain-based digital wallets, token exchange, and Thai QR / hotel PMS payment integrations
+- Led Ladyfirst, a women's second-hand marketplace, from concept, UI/UX direction, and architecture to deployment
+- AI & research: MRI brain tumor segmentation (Mahidol University), EEG-based learning-strategy classification, and vector search / RAG systems
+- Published researcher — see [Publications](#publications) below
+- Certified in Machine Learning (Stanford), Deep Learning (DeepLearning.AI), and Python for Everybody (University of Michigan)
+- Reach me at **zaralwinneirin@gmail.com**
 
-<p>Fontend</p>
-<a href=""><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
-<a href=""><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-<a href=""><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>
+## Publications
 
-<p>Mobile</p>
-<a href=""><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
+- **[An MCP-Driven Multi-Agent Enterprise Marketplace Platform Architecture for Myanmar Secondhand and Local Fashion Merchants: A Survey-Based Requirements Analysis](https://www.ijcaonline.org/archives/volume187/number136/an-mcp-driven-multi-agent-enterprise-marketplace-platform-architecture-for-myanmar-secondhand-and-local-fashion-merchants-a-survey-based-requirements/)** — *International Journal of Computer Applications*, Vol. 187, No. 136, 2026 (first / corresponding author)
+- **[Dynamic Functional Connectivity Patterns in Resting-State EEG for Classifying Learning Strategies](https://www.ijcaonline.org/archives/volume187/number64/dynamic-functional-connectivity-patterns-in-resting-state-eeg-for-classifying-learning-strategies/)** — *International Journal of Computer Applications*, Vol. 187, No. 64, 2025 (co-author)
 
-<p>Backend</p>
-<a href=""><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></a>
-<a href=""><img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+## Featured Projects
 
+| Project | Description | Links |
+|---|---|---|
+| **[Ladyfirst](https://apps.apple.com/us/app/ladyfirst/id6804199562)** | Women-focused pre-loved fashion & beauty marketplace with mood-based browsing and live bidding | [App Store](https://apps.apple.com/us/app/ladyfirst/id6804199562) · [Google Play](https://play.google.com/store/apps/details?id=com.obipumanee.ladyfirst) |
+| **[GoldSilver Central](https://apps.apple.com/us/app/gsc-live/id6446312892)** | Bullion trading app — wallets, market insights, precious metals | [App Store](https://apps.apple.com/us/app/gsc-live/id6446312892) · [Google Play](https://play.google.com/store/apps/details?id=com.gsclive.app) |
+| **[Food.com.mm](https://apps.apple.com/us/app/food-com-mm/id6446515746)** | Food ordering platform connecting restaurants and customers in Myanmar | [App Store](https://apps.apple.com/us/app/food-com-mm/id6446515746) |
+| **[Go Go Travel](https://apps.apple.com/us/app/go-go-travel/id6473775786)** | Travel planning & discovery app for Myanmar | [App Store](https://apps.apple.com/us/app/go-go-travel/id6473775786) |
+| **Wisdom Tree** | Digital bookstore & library app | [App Store](https://apps.apple.com/us/app/wisdom-tree-library/id6464262162) |
+| **Joyful LMS** | Learning management platform for children — courses, exams, teacher feedback | — |
+| **WeR.inc / Gogoku** | Full-stack stock analysis platform (Flutter, React, Fastify, TensorFlow) with AI prediction workflows | — |
 
-<p>Databases</p>
-<a href=""><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+### Other Published Apps
 
-<p>AI(Data Science)</p>
-<a href=""><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
+[Shwe Phone Shein](https://apps.apple.com/us/app/shwe-phone-shein/id6463791308) · [Kwee La Min](https://apps.apple.com/us/app/kwee-lamin/id6451135120) · [Gold Accessories Myanmar](https://apps.apple.com/us/app/gold-accessories-myanmar/id6464115053) · [Hang Ten Myanmar](https://apps.apple.com/us/app/hang-ten-myanmar/id6445860267) · [BPH Library](https://apps.apple.com/us/app/bph-library/id6472628446) · [Fruit.com.mm](https://apps.apple.com/us/app/fruit-com-mm/id6464595837)
 
-<p>Work specs</p>
-<a href=""><img src="https://img.shields.io/badge/Apple-MacBook_Air_M1-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/Windows-ROG_STRIX_G-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/NVIDIA-GTX1660ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></a>
+## Tech Stack
 
-![Nei Rin Zara Lwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=neirinzaralwin&show_icons=true&theme=radical&text_color=black&bg_color=white&title_color=5200bd&icon_color=blue)
+**Languages**
+<br>
+<img src="https://img.shields.io/badge/Dart-555555?style=for-the-badge&logo=dart&logoColor=0175C2">
+<img src="https://img.shields.io/badge/JavaScript-555555?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/Python-555555?style=for-the-badge&logo=python&logoColor=3776AB">
+<img src="https://img.shields.io/badge/Java-555555?style=for-the-badge&logo=openjdk&logoColor=ED8B00">
+
+**Mobile & Frontend**
+<br>
+<img src="https://img.shields.io/badge/Flutter-555555?style=for-the-badge&logo=flutter&logoColor=02569B">
+<img src="https://img.shields.io/badge/React-555555?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Next.js-555555?style=for-the-badge&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind_CSS-555555?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC">
+<img src="https://img.shields.io/badge/Bootstrap-555555?style=for-the-badge&logo=bootstrap&logoColor=7952B3">
+<img src="https://img.shields.io/badge/HTML5-555555?style=for-the-badge&logo=html5&logoColor=E34F26">
+<img src="https://img.shields.io/badge/CSS3-555555?style=for-the-badge&logo=css3&logoColor=1572B6">
+
+**Backend**
+<br>
+<img src="https://img.shields.io/badge/Node.js-555555?style=for-the-badge&logo=node.js&logoColor=43853D">
+<img src="https://img.shields.io/badge/NestJS-555555?style=for-the-badge&logo=nestjs&logoColor=E0234E">
+<img src="https://img.shields.io/badge/Fastify-555555?style=for-the-badge&logo=fastify&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-555555?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-555555?style=for-the-badge&logo=fastapi&logoColor=009688">
+<img src="https://img.shields.io/badge/Flask-555555?style=for-the-badge&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/Django-555555?style=for-the-badge&logo=django&logoColor=44B78B">
+<img src="https://img.shields.io/badge/Spring_Boot-555555?style=for-the-badge&logo=springboot&logoColor=6DB33F">
+
+**Databases & Infra**
+<br>
+<img src="https://img.shields.io/badge/PostgreSQL-555555?style=for-the-badge&logo=postgresql&logoColor=4169E1">
+<img src="https://img.shields.io/badge/MongoDB-555555?style=for-the-badge&logo=mongodb&logoColor=47A248">
+<img src="https://img.shields.io/badge/MySQL-555555?style=for-the-badge&logo=mysql&logoColor=4479A1">
+<img src="https://img.shields.io/badge/SQLite-555555?style=for-the-badge&logo=sqlite&logoColor=07405E">
+<img src="https://img.shields.io/badge/Oracle-555555?style=for-the-badge&logo=oracle&logoColor=F80000">
+<img src="https://img.shields.io/badge/Firebase-555555?style=for-the-badge&logo=firebase&logoColor=FFCA28">
+<img src="https://img.shields.io/badge/Docker-555555?style=for-the-badge&logo=docker&logoColor=2496ED">
+
+**AI & Data**
+<br>
+<img src="https://img.shields.io/badge/TensorFlow-555555?style=for-the-badge&logo=tensorflow&logoColor=FF6F00">
+<img src="https://img.shields.io/badge/OpenCV-555555?style=for-the-badge&logo=opencv&logoColor=5C3EE8">
+<img src="https://img.shields.io/badge/scikit--learn-555555?style=for-the-badge&logo=scikitlearn&logoColor=F7931E">
+<img src="https://img.shields.io/badge/Stripe-555555?style=for-the-badge&logo=stripe&logoColor=635BFF">
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=neirinzaralwin&show_icons=true&theme=tokyonight&bg_color=000000&title_color=68D391&icon_color=68D391&text_color=e0e6ed&border_color=2C5364&hide_border=false" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neirinzaralwin&layout=compact&theme=tokyonight&bg_color=000000&title_color=68D391&text_color=e0e6ed&border_color=2C5364&hide_border=false" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=neirinzaralwin&theme=github-compact&bg_color=000000&color=68D391&line=68D391&point=e0e6ed&area=true&hide_border=true" width="98%"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
