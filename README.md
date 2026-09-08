@@ -89,14 +89,13 @@
 <img src="https://img.shields.io/badge/scikit--learn-555555?style=for-the-badge&logo=scikitlearn&logoColor=F7931E">
 <img src="https://img.shields.io/badge/Stripe-555555?style=for-the-badge&logo=stripe&logoColor=635BFF">
 
+
 ## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=neirinzaralwin&show_icons=true&theme=tokyonight&bg_color=000000&title_color=68D391&icon_color=68D391&text_color=e0e6ed&border_color=2C5364&hide_border=false" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neirinzaralwin&layout=compact&theme=tokyonight&bg_color=000000&title_color=68D391&text_color=e0e6ed&border_color=2C5364&hide_border=false" height="165"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=neirinzaralwin&theme=github-compact&bg_color=000000&color=68D391&line=68D391&point=e0e6ed&area=true&hide_border=true" width="98%"/>
+<img src="https://img.shields.io/github/followers/neirinzaralwin?label=Followers&style=for-the-badge&color=555555&logo=github&logoColor=white">
+<img src="https://img.shields.io/github/stars/neirinzaralwin?label=Stars&style=for-the-badge&color=555555&logo=github&logoColor=white">
+<img src="https://komarev.com/ghpvc/?username=neirinzaralwin&label=Profile+Views&style=for-the-badge&color=555555">
 
 </div>
-
